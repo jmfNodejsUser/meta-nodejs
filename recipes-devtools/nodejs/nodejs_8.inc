@@ -4,8 +4,8 @@ HOMEPAGE = "http://nodejs.org"
 LICENSE = "MIT"
 
 COMPATIBLE_MACHINE_armv4 = "(!.*armv4).*"
-COMPATIBLE_MACHINE_armv5 = "(!.*armv6).*"
-COMPATIBLE_MACHINE_armv5 = "(!.*armv8).*"
+COMPATIBLE_MACHINE_armv6 = "(!.*armv6).*"
+COMPATIBLE_MACHINE_armv8 = "(!.*armv8).*"
 COMPATIBLE_MACHINE_mips64 = "(!.*mips64).*"
 
 INC_PR = "r1"
